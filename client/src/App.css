@@ -1,5 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Teko:700&display=swap');
+
 .App {
   text-align: center;
+}
+
+.App h1 {
+  font-family: 'Teko', sans-serif;
+  font-size: 5rem;
+  background-color: black;
+  color: white;
 }
 
 .dark-mode {
@@ -22,5 +31,15 @@
 
 .player-card  p {
   margin: 0;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+button {
+  background-color: black;
+  width: 200px;
+  height: 30px;
+  color: white;
+  
 }
 

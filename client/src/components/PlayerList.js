@@ -1,5 +1,6 @@
 import React from 'react';
 import { useDarkMode } from '../hooks/useDarkMode';
+import '../App.css';
 
 import PlayerCard from './PlayerCard';
 
